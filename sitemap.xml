@@ -15,9 +15,6 @@
 		<loc>https://www.patricia-eller.at/werdegang.html</loc>
 	</url>
 	<url>
-		<loc>https://www.patricia-eller.at/lebenslauf.html</loc>
-	</url>
-	<url>
 		<loc>https://www.patricia-eller.at/kontakt.html</loc>
 	</url>
 	<url>
@@ -40,5 +37,8 @@
 	</url>
 	<url>
 		<loc>https://www.patricia-eller.at/template.html</loc>
+	</url>
+	<url>
+		<loc>https://www.patricia-eller.at/ausbildung.html</loc>
 	</url>
 </urlset>
